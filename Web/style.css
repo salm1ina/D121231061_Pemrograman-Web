@@ -114,7 +114,7 @@ h1 {
     transform: translateY(-2px);
 }
 
-/* Responsif */
+/*responsif*/
 @media (max-width: 768px) {
     .profile-container {
         flex-direction: column;
@@ -139,4 +139,9 @@ h1 {
     .contact-links {
         justify-content: center;
     }
+}
+
+.contact-button i {
+    margin-right: 8px; 
+    font-size: 18px;
 }
