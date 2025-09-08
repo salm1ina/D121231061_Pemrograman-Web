@@ -14,7 +14,7 @@ body {
     display: flex;
     background-color: #F8F8FF;
     box-shadow: 0 10px 40px rgba(80, 185, 255, 0.200);
-    max-width: 2000px;
+    max-width: 1000px;
     width: 100%;
     border-radius: 20px;
     overflow: hidden;
